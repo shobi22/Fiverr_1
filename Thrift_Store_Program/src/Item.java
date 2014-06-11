@@ -6,7 +6,7 @@ public class Item {
 	double itemPrice; //non negative value
 	int count; //number of items currently in the stock
 	
-	
+	/*Aarthika ^ Shobi*/
 	Item(){
 		count=0;
 	}
