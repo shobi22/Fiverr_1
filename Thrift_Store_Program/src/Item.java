@@ -1,5 +1,14 @@
 
 public class Item {
 
-	//make some changes
+	String itemName; //maximum 15 characters
+	String itemID;
+	double itemPrice; //non negative value
+	int count; //number of items currently in the stock
+	
+	
+	Item(){
+		count=0;
+	}
+	
 }
